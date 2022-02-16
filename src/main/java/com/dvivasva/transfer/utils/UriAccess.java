@@ -1,5 +1,5 @@
-package com.microservice.account.utils;
+package com.dvivasva.transfer.utils;
 
 public interface UriAccess {
-    String CUSTOMER ="/customer/";
+    String ACCOUNT ="/account/";
 }
